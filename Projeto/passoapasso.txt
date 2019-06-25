@@ -1,0 +1,31 @@
+1) 
+- Struct p/ Armazenar nome, CPF, opçao de curso (SI e GE) e se a inscrição esta efetivada.
+- Numero da inscrição será numerico e ordenado por inscrição.
+- A inscrição será efetiva se o boleto estiver pago
+
+2) Permitir editar o nome, CPF e opção de curso, a partir do numero de inscrição.
+
+3) Struct p/ cadastrar nome e cargo dos aplicadores (ao menos 1 fiscal por sala).
+
+4) 
+- Cada sala deverá caber até 30 candidatos. 
+- Ao final das inscrições, informar quantas salas serao necessarias.
+- Considerar que apenas alunos com a inscrição efetivada podem realizar a prova.
+
+5) 
+- Listar o nome dos candidatos por sala.
+- Utilizar o criterio de 30 alunos por sala.
+
+6) Relação candidatos/vaga considerando inscrições efetivadas e nao efetivadas
+
+BANCO DE DADOS
+
+7) Armazenar lista de inscrições (validadas ou nao) em INSCRICOES.txt
+
+8) Armazenar candidatos efetivados em CANDIDATOS.txt
+
+9)
+- Struct p/ armazenar Nome e CPF dos aprovados no vestibular
+- Maximo de 40 aprovados.
+- Pode receber o numero de inscriçao ou exibir a lista de todos, informando se aprovou ou reprovou
+- Armazenar em APROVADOS.txt
